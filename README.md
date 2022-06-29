@@ -2,7 +2,7 @@
 </br>
 </br>
 <h1 align="center">
-  Hey there, nice to meet you! <img alt="hi" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  Hey there, nice to meet you! <img alt="hi" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
 </h1>
 <p align="center">   
   <a href="https://www.linkedin.com/in/luca-merola/" target="_blank"><img alt="linkedin link" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
